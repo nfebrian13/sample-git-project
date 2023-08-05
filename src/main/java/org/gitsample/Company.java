@@ -5,7 +5,7 @@ public class Company {
 
 	//Change 2
 
-	//Change 1
+	//Comment 1
 
 	private String name;
 	private int salary;
